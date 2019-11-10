@@ -4,7 +4,7 @@
 $ip = ("VIVAWORLD.CLUB");
 // Server Name
 $srvn = ("Viva World");
-// Background Color (Blue, Red, Green, Orange)
+// Background Color (Blue, Red, Green, Orange, Green-light)
 $color = ("green");
 // Copyright
 $copyright = ("Edit Copyright");
